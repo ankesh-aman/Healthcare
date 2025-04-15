@@ -155,4 +155,14 @@ Here’s a summary of the project’s key findings, enriched with emojis for cla
 
 ---
 
-## 📂 Project Structure
+## Key Results 🥳
+- Developed vibrant visualizations (bar charts, donut charts, heatmaps, KPI cards) to reveal patient demographics, treatment outcomes, and hospital performance. 📊  
+- Identified critical trends, such as high recovery rates for Counseling and inefficiencies at high-load hospitals. 🎯  
+- Enhanced analysis with custom DAX measures (e.g., Average Recovery Rating, Patients per Room) and interactive slicers for dynamic insights. 🖥️  
+
+## Business Impact 🌍
+This analysis delivers insights to:  
+- **Optimize treatment plans** by prioritizing Counseling and Medication, improving recovery rates (up to 5.17) and cutting costs vs. Surgery ($10.8K). 💊  
+- **Boost hospital efficiency** by addressing bottlenecks at Green Valley Medical Center, learning from Riverside Hospital’s low-cost, high-recovery model (5.21 rating). 🏥  
+- **Enhance patient care** for vulnerable groups (e.g., Infants, Teens) with tailored treatments, increasing satisfaction and reducing readmissions. 😊  
+- **Plan resources smarter** with capacity forecasts (26–34 patients), ensuring scalability without overextension. 🛏️  
