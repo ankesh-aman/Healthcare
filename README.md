@@ -2,6 +2,11 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow) ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-blue) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
+![Healthcare-analytics](https://github.com/user-attachments/assets/a845f93a-6514-4463-91d1-f8c93d082628)
+
+
+
+
 Welcome to the *Healthcare Analysis* Power BI project! 🚀 This project unlocks actionable insights from healthcare data, focusing on patient demographics, treatment outcomes, and hospital performance. With vibrant dashboards and robust analytics, it empowers stakeholders to optimize healthcare delivery. 🩺📊
 
 ---
